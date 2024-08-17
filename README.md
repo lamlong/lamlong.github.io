@@ -1,2 +1,2 @@
 # lamlong.github.io
-# images
+/images/
